@@ -5,6 +5,7 @@ from reviews.management.commands.utils import (comment_loader, csv_loader,
                                                review_loader, title_loader)
 from reviews.models import Category, Genre, User
 
+
 CONSOLE_STRING_LENGTH = 70
 
 
